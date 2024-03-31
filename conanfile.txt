@@ -1,0 +1,6 @@
+[requires]
+czmq/4.2.1
+
+[generators]
+PkgConfigDeps
+MesonToolchain
